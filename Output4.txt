@@ -1,0 +1,5 @@
+item    price   qunty
+tea     Rs2     3g
+rice    Rs33    4kg
+she said "c++ is a fun!"
+saved in c:\lab1

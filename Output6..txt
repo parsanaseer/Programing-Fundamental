@@ -1,0 +1,6 @@
+Day     Time            Subject
+Mon     9:00-10:30      Calculus
+Tue     10:00-1:00      Programing lab
+Wed     11:00-12:30     English
+Thu     9:00-10:30      Applied Physics
+Fri     11:00-12:30     islamic studies
