@@ -1,0 +1,6 @@
+Name    : Parsa
+Rollno  : 26-SE-30
+program : BS Software Engg.
+semester :1
+Motto   : "Code.test.repeat"
+Folder  : c:\students\lab1
