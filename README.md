@@ -20,7 +20,7 @@ This repository contains my C++ programs, coding practice, and learning projects
 
 ## Tools Used
 - C++ Compiler
-- Code::Blocks / Visual Studio Code
+- Code: DEVC++/ Visual Studio Code
 
 ## My Goals
 - Learn C++ programming.
