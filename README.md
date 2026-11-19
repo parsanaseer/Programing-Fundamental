@@ -8,12 +8,12 @@ This repository contains my C++ programs, coding practice, and learning projects
 
 ## Programs
 
-1. prog 1.cpp
-2. prog 2.cpp
-3. prog 3.cpp
-4. prog 4.cpp
-5. prog5.cpp
-6. prog6.cpp
+1.Variables
+2. Loops
+3. Arrays
+4.Functions 
+5.Structures
+6. File Handling
 
 ## Language Used
 - C++
