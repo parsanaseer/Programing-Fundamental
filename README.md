@@ -1,5 +1,11 @@
-# Programing-Fundamental
-A collection of my programing projects and coding practice.
+Name: Parsa Naseer
+Rollno: 2026-SE-30
+SOFTWARE ENGINEERING 
+1St SEMESTER
+
+
+# Programming-Fundamental
+A collection of my programming projects and coding practice.
 # My C++ Programming Repository 🚀
 
 Welcome to my C++ programming repository!
@@ -8,7 +14,7 @@ This repository contains my C++ programs, coding practice, and learning projects
 
 ## Programs
 
-1.Variables
+1. Variables
 2. Loops
 3. Arrays
 4.Functions 
